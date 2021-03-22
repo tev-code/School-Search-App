@@ -1,0 +1,44 @@
+[
+	{
+		"abbr": "BHS",
+		"name": "Bergvliet",
+		"grade": "High",
+		"area": "Meadowridge",
+		"suburb": "South"
+	},
+	{
+		"abbr": "PHS",
+		"name": "Plumstead",
+		"grade": "High",
+		"area": "Plumstead",
+		"suburb": "South"
+	},
+	{
+		"abbr": "DKHS",
+		"name": "De Kuilen",
+		"grade": "High",
+		"area": "Kuilsriver",
+		"suburb": "North"
+	},
+	{
+		"abbr": "KPS",
+		"name": "Kirstenhof",
+		"grade": "Primary",
+		"area": "Kirstenhof",
+		"suburb": "South"
+	},
+	{
+		"abbr": "WPS",
+		"name": "Westcott",
+		"grade": "Primary",
+		"area": "Meadowridge",
+		"suburb": "South"
+	},
+	{
+		"abbr": "BPS",
+		"name": "Belhar",
+		"grade": "Primary",
+		"area": "Belhar",
+		"suburb": "North"
+	}
+]
